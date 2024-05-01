@@ -26,9 +26,14 @@ In today's rapidly evolving market landscape, data-driven insights play a pivota
 
 By utilizing these tools effectively, I was able to perform in-depth analysis of the sales data, extract valuable insights, and support data-driven decision-making for the electronic store.
 
-The questions I wanted to answer through my SQL queries were:
+The questions I wanted to answer through (pandas,matplotlib,python) were:
+
 Question #1: What was the best month for sales? how much was earned this month?
+
 Question #2: What city sold the most product? 
+
 Question #3: What time should we display advertisements to maximize the likelihood of purchases?
+
 Question #4: What products are most often sold together?
+
 Question #5: What product sold the most? Why do you think it did?
